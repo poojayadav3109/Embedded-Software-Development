@@ -1,0 +1,10 @@
+Git Command
+git status- it used to show the current state of your working directory and staging area. It tells you what changes have been made and what still needs to be commited. 
+git add- it is used to add changes in your working directory to the staging area. It tells git that you want to include updates to a particular file in the next commit.
+git commit- it is used to save your changes to the local repository. It takes a snapshot of the changes in the staging area and stores it in the repository's history.
+git push- it is used to upload your local repository content to a remote repository. It sends your commits to the remote repository so that others can see them.
+git pull- it is used to fetch and integrate changes from a remote repository into your local repository. It combines the git fetch and git merge commands.
+git clone- it is used to create a copy of a remote repository on your local machine. It downloads the entire repository, including its history and branches.
+git checkout- it is used to switch branches or restore working tree files. It allows you to navigate between different branches in your repository.
+git restore- it is used to restore working tree files. It can be used to discard changes in the working directory or to restore files to a previous state.
+
