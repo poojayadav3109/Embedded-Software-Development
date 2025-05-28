@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "mul.h"
 #include "Addition.h"
+#include "Subtraction.h"
 
 
 int main() {
@@ -24,7 +25,7 @@ int main() {
             addNumber(num1, num2);
             break;
         case '-':
-            //subNumber(num1, num2);
+            subNumber(num1, num2);
             break;
         case '*':
             mulNumber(num1, num2);
