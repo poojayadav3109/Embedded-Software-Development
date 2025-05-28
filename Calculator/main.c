@@ -1,6 +1,8 @@
 //write a c code to take user input for two numbers and perform addition, subtraction, multiplication, and division on them.
 #include <stdio.h>
 #include "mul.h"
+#include "Addition.h"
+
 
 int main() {
     double num1, num2;
